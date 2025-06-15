@@ -83,7 +83,8 @@ npx jest --coverage
 
 👉 Example screenshot added below:
 
-![Coverage Screenshot](./coverage.png)
+![Coverage Screenshot](./testcoverage.png)
+![Jest](./jest.png).
 
 
 ## 📦 Build for production
@@ -102,4 +103,4 @@ Output will be in `dist/`.
 * Jest
 * OpenWeatherMap API
 
-#####Due to unavoidable circumstances I wasnt able to push with my account(i-william17), I have pushed with another one.
+#####Due to unavoidable circumstances I wasnt able to push with my account(i-william17), I have pushed with another one. You can see 2 contributors but the code is written by me.
