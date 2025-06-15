@@ -18,7 +18,7 @@ Features
 
 ## 🔗 Live Demo
 
-👉 [View Live Demo]((https://weatherspherekenya.netlify.app/))
+👉 [View Live Demo](https://weatherspherekenya.netlify.app/)
 
 ---
 
@@ -28,7 +28,6 @@ Features
 
 ```bash
 git clone https://github.com/i-william17/weathersphere.git
-cd client
 ```
 
 ### 2️⃣ Install dependencies
